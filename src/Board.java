@@ -1,6 +1,7 @@
 /**
  * Created by Toshiba on 3/18/2016.
  */
+
 public class Board {
     private int dirdx; // direction on x ( -1, 0 or 1)
     private int dirdy; // direction on y ( -1, 0 or 1)
@@ -34,10 +35,9 @@ public class Board {
         int random;
 
         for(i =0; i< nbofghosts; i++) {
-        
+
         }
     }
-
 
 
 }
